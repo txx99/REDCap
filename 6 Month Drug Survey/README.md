@@ -1,6 +1,6 @@
 # 6 Month Drug Study
 REDCap-ready .xml file containing set-up for longitudinal 6-month clinical trial study.\
-This study exemplifies: multiple events along Treatment and Control arms, instrument designation to multiple events, repeating instruments, and branching logic. Meant for pre-randomized patients.
+This study exemplifies: multiple events along Treatment and Control arms, instrument designation to multiple events, repeating instruments, and branching logic. Meant for use post-randomization.
 
 ### Contains 5 forms:
 **Patient Intake:** For patient demographic and health details. \
