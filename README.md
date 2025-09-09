@@ -1,7 +1,7 @@
 ## REDCap
 
 6 Month Drug Study: \
-REDCap-ready .xml file containing set-up for longitudinal 6-month clinical trial study.\
+REDCap-ready .xml file containing set-up for longitudinal 6-month clinical trial study.
 
 
 ## Credits
